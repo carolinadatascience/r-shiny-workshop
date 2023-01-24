@@ -1,0 +1,8 @@
+"Transaction.Date","Posted.Date","Card.No.","Description","Category","Debit","Credit","Month"
+"2022-05-10","2022-05-10",1234,"TST* UBER BAGELS & DEL","Dining",1.25,NA,"May"
+"2022-05-02","2022-05-04",1234,"LOVES TRAVEL S00004697","Gas/Automotive",59.02,NA,"May"
+"2022-05-03","2022-05-03",1234,"TST* COSMIC CANTINA- C","Dining",6.87,NA,"May"
+"2022-05-01","2022-05-02",1234,"SQ *BRANDWEIN'S BAGELS","Dining",6.45,NA,"May"
+"2022-04-30","2022-05-02",1234,"TARGET        00032417","Merchandise",13.63,NA,"May"
+"2022-04-27","2022-04-27",1234,"TST* COSMIC CANTINA- C","Dining",6.87,NA,"May"
+"2022-04-26","2022-04-26",1234,"THRIFT BOOKS GLOBAL, L","Merchandise",7.22,NA,"May"
