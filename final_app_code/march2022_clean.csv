@@ -1,0 +1,4 @@
+"Transaction.Date","Posted.Date","Card.No.","Description","Category","Debit","Credit","Month"
+"2022-03-19","2022-03-21",1234,"HARRIS TEETER #0120","Merchandise",14.95,NA,"March"
+"2022-03-18","2022-03-21",1234,"SHELL OIL 575258342QPS","Gas/Automotive",59.03,NA,"March"
+"2022-03-18","2022-03-19",1234,"TRADER JOE'S #650  QPS","Merchandise",80.08,NA,"March"
