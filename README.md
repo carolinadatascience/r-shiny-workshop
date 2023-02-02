@@ -1,5 +1,5 @@
 # R-Shiny-Workshop
-*Created by Julia Barrow for Carolina Analytics and Data Science, Spring 2023*
+*Created by [Julia Barrow](https://github.com/Juliabarrow) for Carolina Analytics and Data Science, Spring 2023*
 
 R Shiny is a tool within R that allows users to make an interactive application that can be deployed as a webpage and used as a tool for those without programming kowledge. This workshop demonstrates the basics of creating an interactive R Shiny App, including inputs, outputs, reactive functions, and images, specifically a personal finanace app to create a custom visualization of one's bank data.
 
